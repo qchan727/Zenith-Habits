@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150930906470",
+    "project_id": "zenith-habits",
+    "storage_bucket": "zenith-habits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150930906470:android:0af7df01caa48ac5aa3ca7",
+        "android_client_info": {
+          "package_name": "com.example.zenithhabits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzSqK_vPSCsRctCe0pCyPCj3aeCvhtwqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
